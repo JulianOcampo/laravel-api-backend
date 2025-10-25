@@ -1,7 +1,7 @@
 # 🧩 API-LARAVEL
 
 API RESTful construida con **Laravel 10**, **PHP 8.2+** y **MySQL 8**, con rutas anidadas, validaciones con FormRequest, respuestas tipadas con API Resources, control centralizado de excepciones y documentación **OpenAPI (Swagger)** generada automáticamente con **Scribe**.
-
+![alt text](<Screenshot 2025-10-24 at 11.24.26 PM.png>)
 ---
 
 ## 🚀 Requisitos mínimos
